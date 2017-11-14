@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="input_number">Nhập số và phép toán cần tính</string>
+</resources>
